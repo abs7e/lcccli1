@@ -97,7 +97,7 @@ logo = f"""
     
     My channel @lcccli
     Arithmetic @te_oe
-    BOT @qddvbot """
+    BOT @qddvbot abs7e """
  
 class login():
 	def __init__(self):
